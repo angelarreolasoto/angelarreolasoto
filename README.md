@@ -53,7 +53,12 @@
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/dagim-alemu/">
 		<img src="https://skillicons.dev/icons?i=linkedin" />   
 	</a>
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/dagim-alemu/">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="[mailto:angel.arreolasoto@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=angel.arreolasoto@gmail.com)">
 		<img src="https://skillicons.dev/icons?i=gmail" />   
 	</a>
+
+	<!-- Para tu README.md -->
+<a href="mailto:angel.arreolasoto@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 </section>
